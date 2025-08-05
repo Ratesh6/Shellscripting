@@ -1,10 +1,6 @@
 
 This project contains a Bash script (`healthcheck.sh`) that performs a basic system health check and logs the output into a file named `healthlog.txt`.
 
----
-
-## 📌 Features
-
 The script captures and logs the following system information:
 
 - 🕒 Current system date and time
