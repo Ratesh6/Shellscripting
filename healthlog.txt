@@ -1,0 +1,280 @@
+==============================================
+System Health Check - 2025-08-05 14:58:17
+==============================================
+
+🕒 Date & Time:
+Tue Aug  5 14:58:17 IST 2025
+
+🔁 Uptime:
+
+📊 CPU Load:
+
+💾 Memory Usage (MB):
+
+🗃️ Disk Usage:
+Filesystem            Size  Used Avail Use% Mounted on
+C:/Program Files/Git  238G   94G  144G  40% /
+
+🔥 Top 5 Memory-Consuming Processes:
+
+🔍 Service Status:
+nginx is NOT running
+ssh is NOT running
+
+==============================================
+
+==============================================
+System Health Check - 2025-08-05 14:58:35
+==============================================
+
+🕒 Date & Time:
+Tue Aug  5 14:58:35 IST 2025
+
+🔁 Uptime:
+
+📊 CPU Load:
+
+💾 Memory Usage (MB):
+
+🗃️ Disk Usage:
+Filesystem            Size  Used Avail Use% Mounted on
+C:/Program Files/Git  238G   94G  144G  40% /
+
+🔥 Top 5 Memory-Consuming Processes:
+
+🔍 Service Status:
+nginx is NOT running
+ssh is NOT running
+
+==============================================
+
+==============================================
+System Health Check - 2025-08-05 15:00:29
+==============================================
+
+🕒 Date & Time:
+Tue Aug  5 15:00:29 IST 2025
+
+🔁 Uptime:
+
+📊 CPU Load:
+
+💾 Memory Usage (MB):
+
+🗃️ Disk Usage:
+Filesystem            Size  Used Avail Use% Mounted on
+C:/Program Files/Git  238G   94G  144G  40% /
+
+🔥 Top 5 Memory-Consuming Processes:
+
+🔍 Service Status:
+nginx is NOT running
+ssh is NOT running
+
+==============================================
+
+==============================================
+System Health Check - 2025-08-05 15:09:05
+==============================================
+
+🕒 Date & Time:
+Tue, Aug  5, 2025  3:09:05 PM
+
+🔁 Uptime:
+
+📊 CPU Load:
+
+💾 Memory Usage (MB):
+
+🗃️ Disk Usage:
+Filesystem            Size  Used Avail Use% Mounted on
+C:/Program Files/Git  238G   94G  144G  40% /
+
+🔥 Top 5 Memory-Consuming Processes:
+
+🔍 Service Status:
+nginx is NOT running
+ssh is NOT running
+
+==============================================
+
+==============================================
+System Health Check - 2025-08-05 15:10:45
+==============================================
+
+🕒 Date & Time:
+Tue, Aug  5, 2025  3:10:45 PM
+
+🔁 Last Reboot Time:
+
+📊 CPU Load:
+0.00 0.00 0.00 1/6
+
+💾 Memory Usage:
+MemTotal:        8223720 kB
+MemFree:         1176316 kB
+SwapTotal:       7602176 kB
+SwapFree:        6033004 kB
+
+🗃️ Disk Usage:
+Filesystem            Size  Used Avail Use% Mounted on
+C:/Program Files/Git  238G   94G  144G  40% /
+
+🔥 Top Memory-Consuming Processes:
+
+🔍 Service Status:
+sshd.exe is NOT running
+nginx.exe is NOT running
+
+==============================================
+
+==============================================
+System Health Check - 2025-08-05 15:20:37
+==============================================
+
+🕒 Date & Time:
+Tue Aug  5 15:20:37 IST 2025
+
+🔁 Last Reboot Time:
+
+📊 CPU Load:
+1.08 1.08 1.08 1/6
+
+💾 Memory Usage:
+MemTotal:        8223720 kB
+MemFree:         1315204 kB
+SwapTotal:       7602176 kB
+SwapFree:        6149184 kB
+
+🗃️ Disk Usage:
+Filesystem            Size  Used Avail Use% Mounted on
+C:/Program Files/Git  238G   94G  144G  40% /
+
+🔥 Top Memory-Consuming Processes:
+
+🔍 Service Status:
+sshd.exe is NOT running
+nginx.exe is NOT running
+
+==============================================
+
+==============================================
+System Health Check - 2025-08-05 15:29:46
+==============================================
+
+🕒 Date & Time:
+Tue Aug  5 15:29:46 IST 2025
+
+🔁 Last Reboot Time:
+
+📊 CPU Load:
+1.13 1.12 1.10 1/6
+
+💾 Memory Usage:
+MemTotal:        8223720 kB
+MemFree:         1185728 kB
+SwapTotal:       7602176 kB
+SwapFree:        6176440 kB
+
+🗃️ Disk Usage:
+Filesystem            Size  Used Avail Use% Mounted on
+C:/Program Files/Git  238G   94G  144G  40% /
+
+🔥 Top Memory-Consuming Processes:
+
+🔍 Service Status:
+sshd.exe is NOT running
+nginx.exe is NOT running
+
+==============================================
+
+==============================================
+System Health Check - 2025-08-05 15:36:15
+==============================================
+
+🕒 Date & Time:
+Tue, Aug  5, 2025  3:36:15 PM
+
+🔁 Last Reboot Time:
+
+📊 CPU Load:
+2.11 2.11 2.11 1/3
+
+💾 Memory Usage:
+MemTotal:        8223720 kB
+MemFree:         1135340 kB
+SwapTotal:       7602176 kB
+SwapFree:        6979056 kB
+
+🗃️ Disk Usage:
+Filesystem            Size  Used Avail Use% Mounted on
+C:/Program Files/Git  238G   94G  145G  40% /
+
+🔥 Top Memory-Consuming Processes:
+
+🔍 Service Status:
+sshd.exe is NOT running
+nginx.exe is NOT running
+
+==============================================
+
+==============================================
+System Health Check - 2025-08-05 15:36:41
+==============================================
+
+🕒 Date & Time:
+Tue, Aug  5, 2025  3:36:41 PM
+
+🔁 Last Reboot Time:
+
+📊 CPU Load:
+1.62 1.99 2.07 1/3
+
+💾 Memory Usage:
+MemTotal:        8223720 kB
+MemFree:         1349180 kB
+SwapTotal:       7602176 kB
+SwapFree:        7019496 kB
+
+🗃️ Disk Usage:
+Filesystem            Size  Used Avail Use% Mounted on
+C:/Program Files/Git  238G   94G  145G  40% /
+
+🔥 Top Memory-Consuming Processes:
+
+🔍 Service Status:
+sshd.exe is NOT running
+nginx.exe is NOT running
+
+==============================================
+
+==============================================
+System Health Check - 2025-08-05 15:38:21
+==============================================
+
+🕒 Date & Time:
+Tue, Aug  5, 2025  3:38:21 PM
+
+🔁 Last Reboot Time:
+
+📊 CPU Load:
+2.77 2.29 2.17 1/3
+
+💾 Memory Usage:
+MemTotal:        8223720 kB
+MemFree:         1417752 kB
+SwapTotal:       7602176 kB
+SwapFree:        7039424 kB
+
+🗃️ Disk Usage:
+Filesystem            Size  Used Avail Use% Mounted on
+C:/Program Files/Git  238G   94G  145G  40% /
+
+🔥 Top Memory-Consuming Processes:
+
+🔍 Service Status:
+sshd.exe is NOT running
+nginx.exe is NOT running
+
+==============================================
+
